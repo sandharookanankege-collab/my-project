@@ -1,5 +1,4 @@
 # bonus.py
-# Additional math functions added by Thevindu Senaweera for collaboration
 
 def multiply(a, b):
     return a * b
